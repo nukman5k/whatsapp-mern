@@ -1,0 +1,21 @@
+[debug] [2022-03-30T09:56:39.692Z] ----------------------------------------------------------------------
+[debug] [2022-03-30T09:56:39.695Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nuke_\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-03-30T09:56:39.695Z] CLI Version:   10.5.0
+[debug] [2022-03-30T09:56:39.695Z] Platform:      win32
+[debug] [2022-03-30T09:56:39.696Z] Node Version:  v16.13.2
+[debug] [2022-03-30T09:56:39.697Z] Time:          Wed Mar 30 2022 11:56:39 GMT+0200 (South Africa Standard Time)
+[debug] [2022-03-30T09:56:39.697Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-03-30T09:56:39.708Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-03-30T09:56:39.708Z] > authorizing via signed-in user (uklalegacy@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\nuke_\Desktop\WebDev\whatsapp-mern
+
