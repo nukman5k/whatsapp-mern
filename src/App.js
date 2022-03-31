@@ -1,16 +1,17 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import { Chat, Sidebar } from './components';
 
 function App() {
   return (
-    <div className="App">
-<<<<<<< HEAD
-      {/* SIDE BAR */}
+    <div className="app">
+      <div className="app__body">
+        {/* SIDE BAR */}
+        <Sidebar />
 
-      {/* CHAT COMPONENT */}
-=======
-     <p>WHATSAPP</p>
->>>>>>> abbc91e7fc67a6bd948c936737053e9f5bf4775a
+        {/* CHAT COMPONENT */}
+        <Chat />
+      </div>
     </div>
   );
 }
